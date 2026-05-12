@@ -22,8 +22,8 @@ Computational biology student passionate about leveraging computer science, medi
 | Project | Description | Highlights |
 |---|---|---|
 | 🧠 **[ABPRS](https://github.com/Cedars-CIG/ABPRS)** | Built an R package and tutorial for AB-PRS | Cedars-Sinai Research Intern Poster Symposium 2024 Winner |
-| 📝 **[PRS Pipeline](https://github.com/wuoli)** | Developed PRS analysis pipelines for large-scale genomic studies | Applied pipeline to UK Biobank validation for multiple projects |
+| 📝 **[PRS Pipeline](https://github.com/wuoli)** (In Progress)| Developing PRS analysis pipelines for large-scale genomic studies | Applied pipeline to UK Biobank validation for multiple projects |
 | 💬 **[Rhinovirus](https://github.com/wuoli/biohackathon2025-rhinovirus)** | Analyzed rhinovirus invasion mechanisms | INT Biohackathon 2025 Best Research Paper and 2nd Place Overall + UCLA Library Prize 2026 1st Place Award|
 | 🤖 **Chromatin State Prediction** | Used Transformer, RoPE, and convolutional architectures to predict chromatin states | Computational Biologists’ Society Mini-Hack 1st Place Award |
-| 🔍 **EHR Fairness** | Developing an agentic AI framework for fairness-aware EHR prediction models | UCLA Senior Thesis |
-| 🔐 **[EHR Antibiotics](https://github.com/wuoli/EHR-Antibiotics-Ranking)** | Built an antibiotic ranking system using ClinicalBERT models | C&S BIO 185 Research Project |
+| 🔍 **EHR Fairness** (In Progress)| Developing an agentic AI framework for fairness-aware EHR prediction models | UCLA Senior Thesis |
+| 🔐 **[EHR Antibiotics](https://github.com/wuoli/EHR-Antibiotics-Ranking)** (In Progress) | Building an antibiotic ranking system using ClinicalBERT models | C&S BIO 185 Research Project |
